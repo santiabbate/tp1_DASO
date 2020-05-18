@@ -50,8 +50,8 @@ class Main:
     def main(self):
 
         try:
-            port = 10000
-            # port = int(sys.argv[1])
+            # port = 10000
+            port = int(sys.argv[1])
         except:
             print("Puerto incorrecto")
             exit(1)
