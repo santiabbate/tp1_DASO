@@ -1,0 +1,1 @@
+/mnt/Archivos/cese/13DASO/TP1/cotizaciones.csv
